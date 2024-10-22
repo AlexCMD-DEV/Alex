@@ -1,0 +1,2 @@
+# Alex
+learnig C
